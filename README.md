@@ -42,4 +42,19 @@ The main objectives of this project is to:
 - Windows CMD	for Local IP and MAC address identification
 
 
-  
+
+
+  ## Author
+
+**Shadrack Osei Poku**
+
+Cybersecurity Intern — NetworkWalks  
+Batch: **B084**
+LinkedIn: [Shadrack Osei Poku](https://www.linkedin.com/in/shadrack-hacks-osei/)
+
+---
+
+##  Project Overview
+
+**Program Name:** Cybersecurity at NetworkWalks | **Week:** 02 | **Project:** FOOTPRINTING | **Repository:** GitHub
+
