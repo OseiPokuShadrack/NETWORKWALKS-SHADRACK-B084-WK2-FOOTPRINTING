@@ -2,7 +2,7 @@
 Details about my lab setup
 <div align="center">
 
-# Cybersecurity Lab Environment Setup
+# Reconnaissance and Footprinting
 
 **Week 2 Project — NetworkWalks B084**
 
